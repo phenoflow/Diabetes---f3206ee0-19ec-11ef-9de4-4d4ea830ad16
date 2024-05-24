@@ -1,0 +1,132 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/adult-diabetes---primary.py
+inputModule3:
+  class: File
+  path: python/diabetes-state---primary.py
+inputModule4:
+  class: File
+  path: python/hyperosmolar-diabetes---primary.py
+inputModule5:
+  class: File
+  path: python/diabetes-preexisting---primary.py
+inputModule6:
+  class: File
+  path: python/maculopathy-diabetes---primary.py
+inputModule7:
+  class: File
+  path: python/diabetes-cataract---primary.py
+inputModule8:
+  class: File
+  path: python/angiopathy-diabetes---primary.py
+inputModule9:
+  class: File
+  path: python/diabetes-ketoacidosis---primary.py
+inputModule10:
+  class: File
+  path: python/diabetes-complicatn---primary.py
+inputModule11:
+  class: File
+  path: python/mononeuropathy-diabetes---primary.py
+inputModule12:
+  class: File
+  path: python/polyneuropathy-diabetes---primary.py
+inputModule13:
+  class: File
+  path: python/juvenile-diabetes---primary.py
+inputModule14:
+  class: File
+  path: python/insulindependent-diabetes---primary.py
+inputModule15:
+  class: File
+  path: python/arthropathy-diabetes---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-treated---primary.py
+inputModule17:
+  class: File
+  path: python/retinopathy-diabetes---primary.py
+inputModule18:
+  class: File
+  path: python/diabetes-gangrene---primary.py
+inputModule19:
+  class: File
+  path: python/diabetes-mellitus---primary.py
+inputModule20:
+  class: File
+  path: python/diabetes-maturity---primary.py
+inputModule21:
+  class: File
+  path: python/diabetes-proteinuria---primary.py
+inputModule22:
+  class: File
+  path: python/diabetes-control---primary.py
+inputModule23:
+  class: File
+  path: python/unstable-diabetes---primary.py
+inputModule24:
+  class: File
+  path: python/diabetes-niddm---primary.py
+inputModule25:
+  class: File
+  path: python/diabetes-ulcer---primary.py
+inputModule26:
+  class: File
+  path: python/patient-diabetes---primary.py
+inputModule27:
+  class: File
+  path: python/diabetes-dependant---primary.py
+inputModule28:
+  class: File
+  path: python/diabetes-circulatory---primary.py
+inputModule29:
+  class: File
+  path: python/neurological-diabetes---primary.py
+inputModule30:
+  class: File
+  path: python/ketoacidotic-diabetes---primary.py
+inputModule31:
+  class: File
+  path: python/diabetes-treatment---primary.py
+inputModule32:
+  class: File
+  path: python/pancreatic-diabetes---primary.py
+inputModule33:
+  class: File
+  path: python/renal-diabetes---primary.py
+inputModule34:
+  class: File
+  path: python/diabetes-unspecified---primary.py
+inputModule35:
+  class: File
+  path: python/diabetes-gastroparesis---primary.py
+inputModule36:
+  class: File
+  path: python/neuropathic-diabetes---primary.py
+inputModule37:
+  class: File
+  path: python/ophthalmic-diabetes---primary.py
+inputModule38:
+  class: File
+  path: python/hypoglycaemic-diabetes---primary.py
+inputModule39:
+  class: File
+  path: python/nephropathy-diabetes---primary.py
+inputModule40:
+  class: File
+  path: python/diabetes---primary.py
+inputModule41:
+  class: File
+  path: python/dominant-diabetes---primary.py
+inputModule42:
+  class: File
+  path: python/diabetes-youth---primary.py
+inputModule43:
+  class: File
+  path: python/diabetes-microalbuminuria---primary.py
+inputModule44:
+  class: File
+  path: python/output-cases.py
